@@ -1,4 +1,7 @@
 gameoflife.py written in Python3 using the latest Anaconda distribution.
+It is heavily reccommended that Anaconda is installed, or that at least the numpy,
+matpotlib and time distributions are imported.
+
 Written by Stephen Brown for the BBC Software Grad Scheme.
 This is my first time scripting in Python!
 
