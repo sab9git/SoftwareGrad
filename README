@@ -8,3 +8,7 @@ This is my first time scripting in Python!
 Script can be run directly from terminal using 'python3 gameoflife.py',
 or by importing into python3 using os.chdir and 'import gameoflife'.
 To start the game, run the gameoflife.main() function.
+
+Clearly it is a struggle, both in terms of visualisation and execution, to implement
+an infinite grid of cells. This code therefore starts with a 25x25 grid, which automatically
+extends itself whenever live cells get close to the grid edges.
