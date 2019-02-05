@@ -1,0 +1,7 @@
+gameoflife.py written in Python3 using the latest Anaconda distribution.
+Written by Stephen Brown for the BBC Software Grad Scheme.
+This is my first time scripting in Python!
+
+Script can be run directly from terminal using 'python3 gameoflife.py',
+or by importing into python3 using os.chdir and 'import gameoflife'.
+To start the game, run the gameoflife.main() function.
